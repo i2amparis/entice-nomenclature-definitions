@@ -1,6 +1,2 @@
 # Valid scenario names for the ENTICE project
-#
-# Add one entry per scenario below, following the guidelines in README.md, e.g.:
-#
-# - My Scenario Name
-[]
+- Baseline

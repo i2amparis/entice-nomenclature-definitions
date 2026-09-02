@@ -1,7 +1,3 @@
 # Models used in the ENTICE modelling studies
-#
-# Add one entry per model below, following the guidelines in README.md, e.g.:
-#
-# - My Model 1.0:
-#     description: "Short description of the model"
-[]
+- GEMINI-E3 ENTICE Coalition:
+    description: "GEMINI-E3 computable general equilibrium (CGE) model, ENTICE Coalition configuration"
