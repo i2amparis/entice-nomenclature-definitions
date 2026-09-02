@@ -1,0 +1,8 @@
+# Overrides in ENTICE
+#
+# Variables for revenue for government. Further new variables for ENTICE
+# are defined in the main directory tree
+
+- Revenue|Government:
+    description: Total government revenue
+    unit: [billion EUR_2017/yr, billion USD_2017/yr]

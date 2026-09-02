@@ -1,0 +1,13 @@
+# Added in ENTICE
+#
+# Variables for revenue for government. Revenues for other institutions should
+# also be added here if relevant. "Revenue|Government" is defined as an
+# override to common-definitions, under /definitions/variable/common-definitions-overrides
+
+- Revenue|Government|Tax:
+    description: Government revenue from taxes
+    unit: [billion EUR_2017/yr, billion USD_2017/yr]
+
+- Revenue|Government|Tax|Carbon:
+    description: Government revenue from carbon taxes
+    unit: [billion EUR_2017/yr, billion USD_2017/yr]
